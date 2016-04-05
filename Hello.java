@@ -4,6 +4,10 @@ class Hello{
 
 	public void sayHi(){
 	
-		System.out.println("hello!");
+		System.out.println("hello to jenkins!");
+	}
+
+	public static void main(String args[]){
+		newHello.sayHi();
 	}
 }
