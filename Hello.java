@@ -8,6 +8,6 @@ class Hello{
 	}
 
 	public static void main(String args[]){
-		newHello.sayHi();
+		new Hello.sayHi();
 	}
 }
